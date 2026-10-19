@@ -25,6 +25,8 @@ npm install
 npm run dev
 ```
 
+Przed uruchomieniem skopiuj `.env.example` do `.env.local` i uzupełnij dane konfiguracji Firebase. Plik `.env.local` nie powinien być dodawany do repozytorium.
+
 ---
 
 ## Screeny aplikacji
